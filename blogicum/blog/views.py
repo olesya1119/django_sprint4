@@ -264,4 +264,3 @@ class ProfileDetailView(DetailView):
         context['page_obj'] = page_obj
 
         return context
-
